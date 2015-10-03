@@ -1,0 +1,10 @@
+{
+    "INSTRUCTIONS": [
+        "First, edit this file.",
+        "Then copy or rename it to 'wunderlist-config.json'."
+        ],
+    "auth": {
+        "X-Access-Token": "xxxxxxxx",
+        "X-Client-ID": "yyyyyyyy"
+        }
+}
